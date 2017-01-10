@@ -9,3 +9,4 @@ gnuplot plot
 #done
 
 pdflatex -shell-escape manuscript.tex
+./clean.sh
