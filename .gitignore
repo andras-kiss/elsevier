@@ -1,0 +1,10 @@
+*.pdf
+*.eps
+*.log
+*.aux
+*.out
+*.dpth
+*.md5
+*.spl
+*.auxlock
+*deconvoluted.*
